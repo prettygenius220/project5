@@ -5,22 +5,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Temi's Laundry</title>
     <style>
-      *{
-    text-decoration: none;
-    list-style: none;
-    margin: 0;
-    padding: 0;
-}
-/* body{
-    
-} */
+     *{
+      text-decoration: none;
+     list-style: none;
+     margin: 0;
+     padding: 0;
+     }
 
-.temi{
+
+   .temi{
     background-image: url(./project5/image/image1.jpg);
     width: 100%;
     height: 100%;
     border: 2px solid brown;
     text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 
 }
 
