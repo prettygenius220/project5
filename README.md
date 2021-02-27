@@ -4,22 +4,22 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Temi's Laundry</title>
+    <link rel="stylesheet" href="./style.css">
     <style>
-     *{
-      text-decoration: none;
-     list-style: none;
-     margin: 0;
-     padding: 0;
-     }
+*{
+    text-decoration: none;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
 
 
-   .temi{
+.temi{
     background-image: url(./image/image1.jpg);
     width: 100%;
     height: 100%;
     border: 2px solid brown;
     text-align: center;
-    background-repeat: no-repeat;
     background-size: cover;
 
 }
@@ -126,7 +126,9 @@ img{
      width:120%;
     height: 75%;
 }
-</style>
+        
+   </style>    
+</head>
 <body>
     <div class="temi">
         <nav>
