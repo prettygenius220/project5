@@ -10,11 +10,12 @@
 } */
 
 .temi{
-    background-image: url(./project5/image/image1.jpg);
+    background-image: url(./image/image1.jpg);
     width: 100%;
     height: 100%;
     border: 2px solid brown;
     text-align: center;
+    background-size: cover;
 
 }
 
