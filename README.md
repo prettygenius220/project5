@@ -14,7 +14,7 @@
 
 
    .temi{
-    background-image: url(project5/image/image1.jpg);
+    background-image: url(./image/image1.jpg);
     width: 100%;
     height: 100%;
     border: 2px solid brown;
@@ -183,7 +183,7 @@ img{
         <button >Send</button>
 
         <div class="pic">
-            <img src="project5/image/image2.jpg" alt="contact us">
+            <img src="./image/image2.jpg" alt="contact us">
         </div>
     </div>
 
