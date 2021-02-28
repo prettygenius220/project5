@@ -14,15 +14,16 @@
 }
 
 
-.temi{
+temi{
     background-image: url(./image/image1.jpg);
-    width: 100%;
+    width: 120%;
     height: 100%;
-    border: 2px solid brown;
     text-align: center;
     background-size: cover;
+    background-attachment: local;
 
 }
+
 
 h1{
     color: royalblue;
@@ -51,7 +52,6 @@ li:hover{
     background-color: azure;
     width:100%;
     height: 50%;
-    border: 2px solid grey;
     padding: 4%;
 }
 
